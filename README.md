@@ -1,4 +1,4 @@
-# 📂 RAG Q&A with Gemini
+# 📂 RAG Q&A with Gemini using LangChain
 
 This is a **Retrieval-Augmented Generation (RAG)** application built with **LangChain, Streamlit, and Google Gemini API**.  
 It allows you to upload documents (PDF, DOCX, TXT), process them into embeddings, and then ask questions directly from the document content.
