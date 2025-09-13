@@ -1,5 +1,3 @@
-# langchain-rag-gemini
-
 # 📂 RAG Q&A with Gemini
 
 This is a **Retrieval-Augmented Generation (RAG)** application built with **LangChain, Streamlit, and Google Gemini API**.  
